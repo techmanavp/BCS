@@ -1,0 +1,27 @@
+KEY INSIGHTS 
+
+1. East region generated the highest revenue (₹5.00M, 27.11% of total sales), 
+   while West region contributed the least (₹4.36M, 23.66%) — West may need 
+   additional marketing focus next quarter.
+
+2. Electronics is the top-performing category, driven mainly by LED TV 32in, 
+   which alone generated ₹5.47M — nearly 3x more than the second best-seller 
+   (Smartwatch at ₹1.67M).
+
+3. Online sales channel (58.68%, ₹10.82M) outperforms Offline (41.32%, ₹7.62M), 
+   indicating a strong shift toward digital purchasing behavior.
+
+4. Monthly revenue shows clear seasonal peaks in April and July 2025, with a 
+   dip in February 2025 — suggesting possible promotional opportunities during 
+   low-sales months.
+
+5. 776 unique customers made purchases, with an average order value of ₹3.07K, 
+   showing healthy per-transaction spending across the customer base.
+
+6. A small group of loyal customers (e.g., CUST0532 with 52 purchases, CUST0533 
+   with 45 purchases) contribute disproportionately to revenue — a loyalty 
+   program could help retain and grow this segment.
+
+7. Grocery category consistently shows the lowest revenue among all categories 
+   month over month, indicating limited growth potential or a need for 
+   category-specific pricing/promotion strategy.
